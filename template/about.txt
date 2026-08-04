@@ -1,0 +1,19 @@
+Clinic Management System.
+
+It can start small:
+
+Patient registration
+Doctor management
+Appointment booking
+Prescriptions
+Billing
+Reports
+
+Then expand:
+
+Lab reports
+Pharmacy
+Inventory
+Online consultations
+Payment gateway
+WhatsApp/SMS reminders
